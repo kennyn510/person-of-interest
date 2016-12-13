@@ -5,7 +5,7 @@ An OS X script for gathering data/information about a specific person.
 1. On OS X, open Applications > Utilities > Terminal.app
 2. git clone https://github.com/kennyn510/person-of-interest.git
 3. cd person-of-interest
-4. chmod 755 *.sh
+4. chmod 775 *.sh
 5. ./startPOI.sh
 
 # Disclaimer
