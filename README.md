@@ -1,5 +1,5 @@
 # person-of-interest
-An OS X script for gathering data/information about a specific person.
+A script for MAC OS X for easily researching yourself (or an individual) online.
 
 # How To Use:
 1. On OS X, open Applications > Utilities > Terminal.app
