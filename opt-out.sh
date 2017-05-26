@@ -1,8 +1,8 @@
 #!/bin/bash
 # Remove your profile from listings
-http://www.spokeo.com/opt_out/new
+https://www.spokeo.com/optout
 https://www.intelius.com/optout
-https://support.whitepages.com/hc/en-us/articles/203263794-Remove-my-listing-fr$
+http://www.whitepages.com/suppression_requests
 
 # OPTIONAL
 
